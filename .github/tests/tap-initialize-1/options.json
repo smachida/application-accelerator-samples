@@ -1,0 +1,5 @@
+{
+  "targetProject": "target-project",
+  "includeHasTests": false,
+  "liveUpdateIDESupport": true
+}

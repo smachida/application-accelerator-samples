@@ -1,0 +1,12 @@
+{
+  "buildTool": "maven",
+  "databaseMigrationTool": "liquibase",
+  "artifactId": "customer-profile",
+  "groupId": "com.example",
+  "packageName": "com.example.customerprofile",
+  "databaseType": "mysql",
+  "databaseName": "test",
+  "exposeOpenAPIEndpoint": false,
+  "databaseIntegrationTestType":  "testcontainers",
+  "liveUpdateIDESupport": true
+}

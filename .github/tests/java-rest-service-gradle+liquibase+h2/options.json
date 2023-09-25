@@ -1,0 +1,11 @@
+{
+  "buildTool": "gradle",
+  "databaseMigrationTool": "liquibase",
+  "artifactId": "customer-profile",
+  "groupId": "com.example",
+  "packageName": "com.example.customerprofile",
+  "databaseType": "postgres",
+  "databaseName": "test",
+  "exposeOpenAPIEndpoint": false,
+  "databaseIntegrationTestType":  "in-memory"
+}
